@@ -1,0 +1,33 @@
+.medium {
+    font-size: 40px;
+}
+.small {
+    font-size: 20px;
+}
+.center {
+    text-align: center;
+}
+.left {
+    margin-left: 50px;
+}
+.right {
+    margin-right: 50px;
+}
+div.columns {
+    display: table; width: 50%;
+}
+div.columns div.col1 {
+     display: table-cell;
+}
+div.columns div.col2 {
+    display: table-cell;
+}
+
+.but {
+    display: flex;
+    justify-content: center;
+}
+
+.table, th, td {
+    border:1px solid black;
+}

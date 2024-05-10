@@ -1,0 +1,19 @@
+<p>
+<b>
+<div>
+<h1>
+<button>
+<img>
+<table>
+<th>
+<td>
+<object>
+.medium
+.small
+.center
+.left
+.right
+div.columns(.col1)(.col2)
+.but
+.table, th, td
+I used javascript to make it possible to click buttons to move to different parts of the website, and I used bootstrap to give myself a nice visible header, and to move around things in columns so that they didn't all look crushed on the sides of the screen.
